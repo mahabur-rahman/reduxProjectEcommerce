@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    background: lightblue;
+    font-family: "Montserrat", sans-serif;
+}
+
+// tailwind css breakpoints  ========== 👍
+// 'sm': '640px',
+// 'md': '768px',
+// 'lg': '1024px',
+// 'xl': '1280px',
+// '2xl': '1536px',
+// navbar
